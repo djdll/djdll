@@ -6,9 +6,7 @@
 - 📫 How to reach me: jiangdata@foxmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_40938217?spm=1011.2415.3001.5343)
  
-![](https://github-readme-stats.vercel.app/api?username=djdll&show_icons=true&theme=transparent) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdll&layout=compact&theme=tokyonight) 
+![](https://github-readme-stats.vercel.app/api?username=djdll&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdll&layout=compact&theme=tokyonight) 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/djdll/count.svg) visitor,Thank You! :star: :star: :star:
 
